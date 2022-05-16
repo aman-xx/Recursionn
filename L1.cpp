@@ -1,4 +1,4 @@
-// print name n times
+// PRINT NAME N TIMES
 //  #include <bits/stdc++.h>
 //  using namespace std;
 //  void sum(int n){
@@ -14,7 +14,7 @@
 //       sum(n);
 //   }
 
-// print n numbers
+// PRINT N NUMBERS
 // #include <bits/stdc++.h>
 // using namespace std;
 // void print (int x,int n){
@@ -28,7 +28,7 @@
 // print(1,n);
 // }
 
-// factorial of n
+// FACTORIAL OF N
 // #include <bits/stdc++.h>
 // using namespace std;
 // int fact(int n){
@@ -41,7 +41,7 @@
 // cout<<fact(n);
 // }
 
-// sum of n numbers
+// SUM OF N NUMBERS
 // #include <bits/stdc++.h>
 // using namespace std;
 // int sum(int n)

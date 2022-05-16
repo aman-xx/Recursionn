@@ -1,4 +1,4 @@
-// Reverse array
+// REVERSE ARRAY
 // #include <bits/stdc++.h>
 // using namespace std;
 // void rev(int l,int r, vector<int>&v){
@@ -15,18 +15,18 @@
 // }
 // }
 
-// String palindrome
-#include <bits/stdc++.h>
-using namespace std;
-bool chk(string s,int l,int r){
-if(l>=r)return true;
-if(s[l]!=s[r])return false;
-chk(s,l+1,r-1);
-return true;
-}
-int main(){
-string s;
-cin>>s;
-int l=0,r=s.size()-1;
-cout<<chk(s,l,r);
-}
+// STRING PALINDROME
+// #include <bits/stdc++.h>
+// using namespace std;
+// bool chk(string s,int l,int r){
+// if(l>=r)return true;
+// if(s[l]!=s[r])return false;
+// chk(s,l+1,r-1);
+// return true;
+// }
+// int main(){
+// string s;
+// cin>>s;
+// int l=0,r=s.size()-1;
+// cout<<chk(s,l,r);
+// }

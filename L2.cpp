@@ -1,4 +1,4 @@
-//Print name n times
+//PRINT NAME N TIMES
 // #include <bits/stdc++.h>
 // using namespace std;
 // void print(int n,string s){
@@ -16,7 +16,7 @@
 // print(n,s);
 // }
 
-// Print linearly from 1 to n
+// PRINT LINEARLY FROM 1 TO N
 // #include <bits/stdc++.h>
 // using namespace std;
 // void print(int n,int a){
@@ -30,7 +30,7 @@
 // print(n,1);
 // }
 
-// print n to 1
+// PRINT N TO 1
 // #include <bits/stdc++.h>
 // using namespace std;
 // void rev(int n){
@@ -44,7 +44,7 @@
 // rev(n);
 // }
 
-// print 1 to n f(i+1,n)is not allowed
+// PRINT 1 TO N F(I+1,N)IS NOT ALLOWED
 // #include <bits/stdc++.h>
 // using namespace std;
 // void print (int i,int n){
@@ -60,7 +60,7 @@
 //  print(n,n);
 // }
 
-// print n to 1 by backtrack
+// PRINT N TO 1 BY BACKTRACK
 // #include <bits/stdc++.h>
 // using namespace std;
 // void f(int i,int n){
