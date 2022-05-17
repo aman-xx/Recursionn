@@ -1,4 +1,4 @@
-// REVERSE ARRAY
+                                            // REVERSE ARRAY
 // #include <bits/stdc++.h>
 // using namespace std;
 // void rev(int l,int r, vector<int>&v){
@@ -15,7 +15,7 @@
 // }
 // }
 
-// STRING PALINDROME
+                                            // STRING PALINDROME
 // #include <bits/stdc++.h>
 // using namespace std;
 // bool chk(string s,int l,int r){

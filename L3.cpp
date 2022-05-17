@@ -1,4 +1,4 @@
-// SUM OF FIRST N NUMBERS
+                                        // SUM OF FIRST N NUMBERS
 // #include <bits/stdc++.h>
 // using namespace std;
 // int sum(int i,int n){
